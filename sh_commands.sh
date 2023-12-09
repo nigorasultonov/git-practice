@@ -4,5 +4,7 @@
 cd <folder name>
 ls -la
 mkdir
+cp <file-to-copy> <where-to-copy>
 
+less tail -f
 
