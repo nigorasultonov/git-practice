@@ -1,5 +1,5 @@
 # git-practice
-This is repo created in git class for practice
+changed to merge-practice4
 
 ## Dev
 - This is my line 1
