@@ -1,5 +1,5 @@
 # git-practice
-This is repo created in git class for practice
+made change in tme main branch
 
 ## Dev
 - This is my line 1
